@@ -29,3 +29,6 @@ float32 shield_upgrade       # amount of shield given by this icon
 float32 shield_remaining_recharge_time  # time until shield is ready again
 
 float32 box_score            # number of points you get for fetching this box
+
+float32 player_shield # also sent in PlayerState, hack for video
+float32 player_hp
